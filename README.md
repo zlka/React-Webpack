@@ -10,4 +10,5 @@ The App is run on 'localhost:8080'
 3. Add a /babelrc file
 4. Add the public and src folders inclduing the basic setup files the app
 5. Add the scripts to the package.json and run the app with 'npm run dev'
+
 et voila - A (very basic) React App
